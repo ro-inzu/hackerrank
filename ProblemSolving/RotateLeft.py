@@ -1,4 +1,4 @@
-# Rotate the array to the left d times]
+# Rotate the array to the left d times
 #
 
 def rotateLeft(d: int, arr: list) -> list:
